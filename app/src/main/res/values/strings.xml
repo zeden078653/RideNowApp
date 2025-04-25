@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RideNow</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to\nRideNow! 🚌✨</string>
+    <string name="welcome_description">Discover real-time tracking, live updates, and more for public transport near you. Say goodbye to waiting, and hello to efficiency!</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Features -->
+    <string name="feature_tracking_title">Real-time Tracking</string>
+    <string name="feature_tracking_desc">See where your public transport is in real-time on a map.</string>
+    <string name="feature_travel_title">Efficient Travel</string>
+    <string name="feature_travel_desc">No more long waits – arrive on time and save time.</string>
+    <string name="feature_eco_title">Eco-Friendly Choice</string>
+    <string name="feature_eco_desc">Help the environment by choosing public transport.</string>
+    <string name="feature_app_title">User-Friendly App</string>
+    <string name="feature_app_desc">Easy-to-use interface for hassle-free navigation and stay well-informed.</string>
+
+    <!-- Location Permission -->
+    <string name="location_title">Enable Location Services 📍</string>
+    <string name="location_description">To provide you with real-time public transport information, we need to access your location.</string>
+    <string name="location_detail">Allow RideNow to access your device\'s location so we can show you nearby bus stops, routes, and estimated arrival times. Your location data will be used only for this purpose and will not be shared with third parties.</string>
+    <string name="allow_location">Allow Location Access</string>
+    <string name="dont_allow">Don\'t Allow</string>
+
+    <!-- Sign In -->
+    <string name="signin_title">Sign In\nto RideNow! 🚌📱</string>
+    <string name="signin_description">Welcome back to RideNow! Sign in to access real-time public transport tracking and personalized features.</string>
+    <string name="email_phone_hint">Enter your email address / phone number</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="continue_with_x">Continue with X</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signup_prompt">Don\'t have an account? Sign up</string>
+    <string name="or">Or</string>
+
+    <!-- Main Screen -->
+    <string name="search_hint">Get Me Somewhere</string>
+    <string name="transport_scooter">Scooter</string>
+    <string name="transport_bike">Bike</string>
+    <string name="transport_ev">EV Car</string>
+    <string name="transport_bus">Bus</string>
+    <string name="transport_mrt">MRT</string>
+    <string name="transport_lrt">LRT</string>
+    <string name="transport_shuttle">Shuttle</string>
+    <string name="transport_ferry">Ferry</string>
+    <string name="display_distance">Display distance</string>
+</resources>

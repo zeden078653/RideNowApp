@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324617407513",
+    "project_id": "ridenow-b1cb2",
+    "storage_bucket": "ridenow-b1cb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324617407513:android:f647ff37eee42ffd8e6e88",
+        "android_client_info": {
+          "package_name": "com.example.ridenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfh3dF3iFibch6i4vhfqjiAkF9WPs5LqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
